@@ -1,5 +1,5 @@
 ﻿
 Console.WriteLine("Hello, ");
-string x = "World";
+string x = "Everyone";
 Console.Write(x);
 Console.ReadKey();
